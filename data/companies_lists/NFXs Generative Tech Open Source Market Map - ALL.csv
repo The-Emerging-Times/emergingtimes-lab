@@ -1,0 +1,599 @@
+Category,Name,URL,Org URL,$ Raised ,Top Investors,Founded,HQ Region,Focus
+Text,Meta OPT,https://github.com/facebookresearch/metaseq/tree/main/projects/OPT,https://meta.com/,"$26,122,817,488","Microsoft, PayPal, General Atlantic, Tiger Global Management, Accel",2004,SF Bay Area,Text Generation
+MLOps/Platform,OpenAI,https://openai.com/,,"$11,300,120,000","Andreessen Horowitz, Microsoft, Thrive Capital, Y Combinator, Sequoia Capital",2015,SF Bay Area,AI Research and deployment
+Code,Amazon CodeWhisperer,https://aws.amazon.com/codewhisperer/,https://amazon.com/,"$8,108,000,000","DBS Bank, AOL, Mizuho Bank, Kleiner Perkins",1994,"Seattle, WA",Code Completion / Documentation
+Image,Nvidia Get 3D,https://nv-tlabs.github.io/GET3D/,https://www.nvidia.com/,"$4,095,000,000","Sequoia Capital, SoftBank Vision Fund, DARPA, ARK Investment Management, ARPA-E",1993,SF Bay Area,3D images
+Video,VOCHI,https://vochi.com/,https://www.pinterest.com/,"$1,486,100,000","Rakuten, Andreessen Horowitz, K2 Global, Wellington Management, Bessemer Venture Partners",2010,SF Bay Area,Video creation/editing
+Text,Anthropic,https://www.anthropic.com/,,"$1,454,000,000","Google, Menlo Ventures, Salesforce Ventures, Sound Ventures, Spark Capital",2021,SF Bay Area,Text Generation
+MLOps/Platform,Scale AI,https://scale.com/,,"$602,620,000","Thrive Capital, Y Combinator, Tiger Global Management, Accel, Wellington Management",2016,SF Bay Area,Data-Centric ML Lifecycle
+Audio,Dialpad,https://www.dialpad.com/,,"$450,000,000","SoftBank, Andreessen Horowitz, Google Ventures, Section 32, G Squared",2011,SF Bay Area,Team/Customer Communications
+MLOps/Platform,Adept,https://www.adept.ai/,,"$415,000,000","NVIDIA, Microsoft, General Catalyst, Root Ventures, SVA",2022,SF Bay Area,General intelligence
+MLOps/Platform,Cohere.ai,https://cohere.ai/,,"$414,946,073","NVIDIA, Tiger Global Management, Inovia Capital, Index Ventures, Radical Ventures",2019,North America (excl. US),NLP Platform
+Bio,Insilico,https://insilico.com/,,"$401,300,000","Deerfield, Warburg Pincus, WuXi AppTec, OrbiMed, Juvenescence",2014,APAC,Protein & drug design
+Text,Grammarly,https://www.grammarly.com/,,"$400,000,000","General Catalyst, BlackRock, Baillie Gifford, Breyer Capital, Sozo Ventures",2009,SF Bay Area,Writing/Editing
+Chatbot/Conversational AI,ASAPP,https://www.asapp.com/,,"$380,000,000","Dragoneer Investment Group, Telstra Ventures, Bienville Capital, Emergence, HOF Capital",2014,"New York, NY",Contact Center
+Code,GitHub Copilot,https://github.com/features/copilot,https://github.com/,"$350,000,000","Thrive Capital, Andreessen Horowitz, Sequoia Capital, EquityZen, SVA",2008,SF Bay Area,Code Generation
+Data,DataStax,https://www.datastax.com/,,"$342,571,788","Sequoia Capital, Lightspeed Venture Partners, EDBI, Jason Calacanis, Rackspace",2010,SF Bay Area,Data stack for building real-time AI apps
+Image,Lightricks,https://www.lightricks.com/,,"$335,000,000","Goldman Sachs, Insight Partners, Greycroft, Goldman Sachs Asset Management, Viola Ventures",2013,Israel,AI Image generation
+Chatbot/Conversational AI,Moveworks,https://moveworks.com,,"$305,000,000","Tiger Global Management, Lightspeed Venture Partners, Sapphire Ventures, Bain Capital, Bain Capital Ventures",2016,SF Bay Area,AI-based employee support
+MLOps/Platform,Anyscale,https://www.anyscale.com/,,"$259,000,000","Andreessen Horowitz, Ant Group, Intel Capital, New Enterprise Associates, The House Fund",2019,SF Bay Area,Platform / application scaling
+Audio,DupDub,https://www.dupdub.com/,https://www.mobvoi.com/,"$252,763,410","Google, Sequoia Capital China, Volkswagen Group, ZhenFund, SIG China (SIG Asia Investments)",2012,APAC,Voiceovers
+Chatbot/Conversational AI,Poe by Quora,https://poe.com/,https://www.quora.com/,"$226,000,000","Y Combinator, Tiger Global Management, Founders Fund, Collaborative Fund, Peter Thiel",2009,SF Bay Area,Easy to use chat interface
+MLOps/Platform,Inflection AI,inflection.ai,,"$225,000,000",,2022,SF Bay Area,cross-industry generative interfaces
+Text,Instoried,https://instoried.com/,,"$219,500,000","Venture Catalysts, 9Unicorns Accelerator Fund, EXPERT DOJO, SOSV, Artesian VC",2018,APAC,Text generation
+Chatbot/Conversational AI,Observe.ai,https://www.observe.ai/,,"$214,020,000","Zoom, Bossanova Investimentos, Y Combinator, Menlo Ventures, Hack VC",2017,SF Bay Area,Contact Center
+Code,Replit,https://replit.com/,,"$202,020,000","Andreessen Horowitz, Reach Capital, Y Combinator, Naval Ravikant, Khosla Ventures",2016,SF Bay Area,Web Development
+MLOps/Platform,Weights & Biases,https://wandb.ai/site,,"$200,000,000","NVIDIA, Gaingels, Insight Partners, Hack VC, Coatue",2017,SF Bay Area,Model development
+Video,Runway,https://runwayml.com/,,"$195,500,000","Bossanova Investimentos, Madrona, Guillermo Rauch, Coatue, Bienville Capital",2018,"New York, NY",Image/Video creation/editing
+Chatbot/Conversational AI,Ada,https://www.ada.cx/,,"$190,620,620","Creative Destruction Lab (CDL), Tiger Global Management, Accel, Bessemer Venture Partners, NEXT Canada",2016,North America (excl. US),Automated Virtual Agents
+Summarization,PrimerAI,https://primer.ai/,,"$168,049,995","DCVC, AME Cloud Ventures, Lux Capital, Section 32, Mubadala Capital Ventures",2015,SF Bay Area,Summarization
+MLOps/Platform,Hugging Face,https://huggingface.co/,,"$160,200,000","Sequoia Capital, Betaworks, Coatue, SVA, Charles Zedlewski",2016,"New York, NY",ML Models
+Semantic Search,Glean,https://www.glean.com/,,"$155,000,000","Sequoia Capital, General Catalyst, Lightspeed Venture Partners, Kleiner Perkins, Slack Fund",2019,SF Bay Area,Knowledge
+Chatbot/Conversational AI,Cresta,https://cresta.com/,,"$151,000,000","Zoom, CarMax, Andreessen Horowitz, Genesys, JP Morgan Chase",2017,SF Bay Area,Contact Center / Customer support
+Avatars,Character.AI,https://character.ai,,"$150,000,000","Andreessen Horowitz, Elad Gil, SVA, A.Capital Ventures, Nat Friedman",2021,SF Bay Area,AI Characters/Avatars
+Semantic Search,Pinecone,https://www.pinecone.io/,,"$138,000,000","Andreessen Horowitz, Tiger Global Management, Menlo Ventures, Wing Venture Capital, ICONIQ Growth",2019,"New York, NY",Vector database
+Data,Snorkel,https://snorkel.ai/,,"$135,250,000","Accel, BlackRock, Google Ventures, Lightspeed Venture Partners, Walden International",2019,SF Bay Area,Data Lableing
+MLOps/Platform,OctoML,https://octoml.ai/,,"$131,900,000","Tiger Global Management, Madrona, Amplify Partners, Addition",2019,"Seattle, WA",Model development
+Text,Jasper.ai,https://www.jasper.ai/,,"$131,037,766","Bossanova Investimentos, Insight Partners, Bessemer Venture Partners, Coatue, IVP",2015,North America (excl. US),Content/Marketing
+Chatbot/Conversational AI,Woebot Health,https://woebothealth.com/,,"$123,300,000","Gaingels, Bossanova Investimentos, Alumni Ventures, What If Ventures, Mirae Asset Capital",2017,SF Bay Area,Mental Health / chatbot
+MLOps/Platform,AI21 Labs,https://www.ai21.com/,,"$118,500,000","Google for Startups, Pitango VC, Walden Catalyst, Ahren Innovation Capital, TPY Capital",2017,Israel,"NLP models, Wordtune write / summarization"
+Image,Soul Machines,soulmachines.com,,"$115,656,972","SoftBank Vision Fund, Temasek Holdings, Horizons Ventures, Lakestar, Salesforce Ventures",2016,APAC,visual media generation
+MLOps/Platform,InstaDeep,http://instadeep.com,,"$107,000,000","Google, BioNTech, G42, Bossanova Investimentos, AfricInvest",2015,"London, UK",industry-specific generative applications
+Data,MDClone,https://www.mdclone.com/,,"$104,000,000","Warburg Pincus, OrbiMed, Lightspeed Venture Partners, Viola Growth, aMoon Fund",2016,Israel,Healthcare / science synthetic data
+Text,Eluether GPT-NEO,https://www.eleuther.ai/,,"$100,000,000",,2019,Unknown,Text Generation
+Audio,Descript,https://www.descript.com/,,"$100,000,000","OpenAI, Andreessen Horowitz, Naval Ravikant, Daniel Gross, Redpoint",2017,SF Bay Area,Voice generation
+Image,Stability,https://stability.ai/,,"$98,797,885","Lightspeed Venture Partners, Coatue, Kadmos Capital, Fourth Revolution Capital, O'Shaughnessy Asset Management",2019,"London, UK",Open AI Tools / Image Generation
+Chatbot/Conversational AI,Forethought,https://forethought.ai/,,"$92,000,000","8VC, Village Global, Collaborative Fund, New Enterprise Associates, South Park Commons",2017,SF Bay Area,Customer Support
+Chatbot/Conversational AI,Ushur,https://ushur.com/,,"$92,000,000","8VC, Plug and Play, Iron Pillar, Third Point Ventures, Pentland Ventures",2014,SF Bay Area,Automated Virtual Agents
+Audio,Deepgram,https://deepgram.com/,,"$85,920,000","NVIDIA, Bossanova Investimentos, Y Combinator, Tiger Global Management, BlackRock",2015,SF Bay Area,Speech to Text
+Chatbot/Conversational AI,Kasisto,https://kasisto.com/,,"$81,450,000","FIS, NCR, Mastercard, Oak HC/FT, Commerce Ventures",2013,"New York, NY",Customer support
+Summarization,Tome,https://tome.app/,,"$75,300,000","500 Global, 8VC, Wing Venture Capital, Lightspeed Venture Partners, Coatue",2020,SF Bay Area,Content summarization
+Data,DataGen Technologies,https://datagen.tech/,,"$72,000,000","Viola Ventures, Operator Partners, TLV Partners, Spider Capital, Scale Venture Partners",2018,Israel,Synthetic data generation
+Text,Mutiny,http://www.mutinyhq.com/,,"$71,620,000","Sequoia Capital, Y Combinator, Tiger Global Management, Insight Partners, Hack VC",2018,SF Bay Area,Marketing / Personalized websites
+MLOps/Platform,Comet ML,https://www.comet.com/site/,,"$69,800,000","Techstars, Techstars Ventures, Founders' Co-op, Two Sigma Ventures, Fathom Capital",2017,"New York, NY",Model deployment / modeling / collaboration
+Avatars,Inworld,https://www.inworld.ai/,,"$69,700,000","Meta, Intel Capital, Founders Fund, BITKRAFT Ventures, HTC",2021,SF Bay Area,NPC's for games
+MLOps/Platform,Creative Fabrica,https://www.creativefabrica.com/spark/,,"$68,550,957","FJ Labs, Alven, Triple Point Ventures, LionTree, Felix Capital",2016,Europe,Art and writing generation
+Semantic Search,SeMI Technologies,https://www.semi.technology/,https://weaviate.io/,"$67,700,000","Index Ventures, New Enterprise Associates, Battery Ventures, Zetta Venture Partners, GTMfund",2019,Europe,AI Infrastructure
+Data,Gretel,https://gretel.ai/,,"$67,699,996","Village Capital, Village Global, Greylock, Section 32, Anthos Capital",2019,"San Diego, CA",Synthetic data generation
+Avatars,Synthesia,https://www.synthesia.io/,,"$66,600,000","Google Ventures, s16vc, MMC Ventures, FirstMark, LDV Capital",2017,"London, UK",AI avatar video creation
+Chatbot/Conversational AI,PolyAI,https://poly.ai/,,"$66,000,000","Entrepreneur First, Twilio, Khosla Ventures, Amadeus Capital Partners, Sands Capital Ventures",2017,"London, UK",Voice Assistants
+Text,Persado,https://www.persado.com/,,"$66,000,000","Goldman Sachs, American Express, American Express Ventures, Bain Capital Ventures, Citi Ventures",2012,"New York, NY",Language generation
+Text,Typeface,https://www.typeface.ai/,,"$65,000,000","Menlo Ventures, Google Ventures, Lightspeed Venture Partners, M12 - Microsoft's Venture Fund",2022,SF Bay Area,Marketing copies that include text and images
+Legal,Casetext,http://casetext.com,,"$64,344,579","Y Combinator, 8VC, Union Square Ventures, Susa Ventures, SVA",2013,SF Bay Area,Legal case generation
+Audio,Assembly AI,https://www.assemblyai.com/,,"$63,120,000","Y Combinator, Accel, Insight Partners, Daniel Gross, Nat Friedman",2017,SF Bay Area,Speech to Text
+Summarization,Otter,https://otter.ai/,,"$63,000,000","500 Global, Draper Associates, Bridgewater Associates, Horizons Ventures, GGV Capital",2016,SF Bay Area,Meeting note summarization
+Video,Magnifi,https://magnifi.ai/,https://vverse.ai/,"$60,880,000","Inflection Point Ventures, Venture Catalysts, Google for Startups, 9Unicorns Accelerator Fund, SOSV",2017,APAC,Video editing / insights
+MLOps/Platform,Lightning.ai,https://lightning.ai/,,"$58,600,000","MANTIS Venture Capital, Index Ventures, Coatue, SVA, Bain Capital Ventures",2019,"New York, NY",Model development
+Text,Walnut,https://www.walnut.io//,,"$56,000,000","NFX, SVA, Immad Akhund, A.Capital Ventures, Graph Ventures, Felicis",2020,"New York, NY",Sales product demos
+Data,Triple Whale,https://www.triplewhale.com/,,"$52,700,000","NFX, Shopify, NFX, Shaan Puri, Elephant, Tectonic Capital",2021,Israel,"E-commerce, marketing"
+Video,InVideo,https://invideo.io/,,"$52,500,000","Tiger Global Management, Lightspeed Venture Partners, RTP Global, Blume Ventures, Omidyar Network",2017,APAC,"Text to Video, Video creation/editing"
+Avatars,DeepBrain AI,https://www.deepbrain.io/,,"$52,000,000","KB Investment, Korea Development Bank, IMM Investment, KDB Capital, L&S Venture Capital",2016,SF Bay Area,Virtual Humans and Avatars
+Chatbot/Conversational AI,Balto,https://www.balto.ai/,,"$51,850,000","Cultivation Capital, Sierra Ventures, Arch Grants, SaaS Ventures, Jump Capital",2017,Other US,Automated Virtual Agents
+Chatbot/Conversational AI,Infinitus,https://infinitus.ai/,,"$51,400,000","Google Ventures, Coatue, Gradient Ventures, Firebolt Ventures, Quiet Capital",2019,SF Bay Area,Healthcare Conversational AI
+Avatars,D-ID,https://www.d-id.com/,,"$47,881,868","OurCrowd, Y Combinator, Hyundai Motor Company, Pitango VC, Macquarie Capital",2017,Israel,Customized videos featuring talking avatars
+Video,Riverside,https://riverside.fm/,,"$47,000,000","Elad Gil, Zeev Ventures, Seven Seven Six, Oren Zeev, Casey Neistat",2019,Israel,Podcast recording / editing
+MLOps/Platform,Fiddler AI,https://www.fiddler.ai/,,"$45,200,000","Bossanova Investimentos, Insight Partners, Lightspeed Venture Partners, Lockheed Martin Ventures, Haystack",2018,SF Bay Area,"AI Observability, Explainability for MLOps and Generative AI"
+Text,You,https://you.com/,,"$45,000,000","Norwest Venture Partners, Radical Ventures, Breyer Capital, SVA, Sound Ventures",2020,SF Bay Area,AI Writer / Knowledge Search
+Data,Tonic,https://www.tonic.ai/,,"$45,000,000","Insight Partners, GGV Capital, Bloomberg Beta, Xfund, Heavybit",2018,SF Bay Area,Synthetic Data
+MLOps/Platform,Robust Intelligence,https://www.robustintelligence.com/,,"$44,000,000","Sequoia Capital, Tiger Global Management, Harpoon, Engineering Capital, Ram Shriram",2019,SF Bay Area,Model dev
+Data,Parallel Domain,http://paralleldomain.com,,"$43,940,000","Toyota Ventures, Foundry Group, RRE Ventures, Calibrate Ventures, Costanoa Ventures",2017,SF Bay Area,Synthetic data
+Sentiment Analysis,Textio,https://textio.com/,,"$42,499,972","Emergence, Industry Ventures, Bloomberg Beta, Upside Partnership, Scale Venture Partners",2014,"Seattle, WA",Writing (bias / sentiment)
+Bio,Atomic AI,https://atomic.ai/,,"$42,000,000","8VC, AME Cloud Ventures, Greylock, Playground Global, Nat Friedman",2021,SF Bay Area,AI-driven RNA drug discovery
+Chatbot/Conversational AI,Mavenoid,https://www.mavenoid.com/en/,,"$39,900,000","Creandum, Jeremy Yap, Mosaic Ventures, ABB Technology Ventures, Andreas Ehn",2017,Europe,Contact Center (Hardware)
+Text,Unbounce,https://unbounce.com/,,"$39,147,612","500 Global, Espresso Capital, Accomplice, Real Ventures, Founders' Co-op",2009,North America (excl. US),AI Writer / Landing Pages
+Audio,Speak,https://www.speak.com/,,"$38,000,000","Y Combinator, Founders Fund, Lachy Groom, Khosla Ventures, OpenAI Startup Fund",2016,SF Bay Area,Learn to speak English
+MLOps/Platform,MosaicML,https://www.mosaicml.com/,,"$37,000,000",,2021,SF Bay Area,Model development
+Text,Maker AI,https://maker.ai/,,"$36,360,000","Bossanova Investimentos, Rocket Internet, Y Combinator, HubSpot, Garage Capital",2018,North America (excl. US),Free AI on-demand content writing
+Video,VEED,https://www.veed.io/,,"$35,000,000","Sequoia Capital, s16vc",2018,"London, UK",Video creation/editing
+Image,Imagen,https://imagen-ai.com/,,"$34,000,000","NFX, Summit Partners, NFX",2020,Israel,Photo editing / profile picture generation
+MLOps/Platform,Matroid,https://www.matroid.com/,,"$33,500,000","Intel Capital, New Enterprise Associates, Energize Ventures",2016,SF Bay Area,Computer vision
+Audio,Papercup,https://www.papercup.com/,,"$33,234,603","Entrepreneur First, LocalGlobe, Octopus Ventures, BDMI, Sands Capital Ventures",2017,"London, UK",Video dubbing / localization
+Chatbot/Conversational AI,iGenius,https://www.igenius.ai/,,"$32,830,752","BlackSheep Ventures, NovaCapital",2016,Europe,Data analysis / science automation
+Code,Tabnine,https://www.tabnine.com/,,"$32,050,000","OurCrowd, Samsung NEXT, Qualcomm Ventures, Khosla Ventures, Headline",2013,Israel,Code Completion
+Chatbot/Conversational AI,EliseAI,https://www.eliseai.com/,,"$31,928,985","Navitas Capital, AvalonBay, Golden Seeds, Ground Up Ventures, DivcoWest",2017,"New York, NY",Automated Virtual Agents
+Data,MostlyAI,https://mostly.ai/,,"$31,145,550","Earlybird Venture Capital, Molten Ventures, 42CAP, Citi Ventures, PUSH Ventures",2017,Europe,Synthetic Data generation
+Semantic Search,Hebbia,hebbia.ai,,"$31,100,000","Index Ventures, Peter Thiel, Radical Ventures, Naval Ravikant, Abstract Ventures",2020,"New York, NY",Personal AI Analyst
+Bio,Aqemia,aqemia.com,,"$30,520,688","Bpifrance, Eurazeo, Elaia",2019,Europe,molecule generation
+Data,Datachat,https://datachat.ai/,,"$30,140,903","National Science Foundation, Anthos Capital, Celesta Capital, Redline Capital, gbeta",2017,Other US,"Chat with your data, naturally"
+Text,Anyword,https://anyword.com/,,"$30,100,000","The New York Times, Innovation Endeavors, UpWest, Marker, Matias Ventures",2013,"New York, NY",Marketing / Copywriting
+MLOps/Platform,Aporia,https://www.aporia.com/,,"$30,000,000","Tiger Global Management, Samsung NEXT, Vertex Ventures, TLV Partners, Tal Ventures",2019,Israel,Model monitoring
+Code,Codacy,https://www.codacy.com/,,"$29,400,000","EQT Ventures, Bright Pixel (former Sonae IM), Faber, Isomer Capital, Seedcamp",2012,Europe,Code Quality
+Audio,Corti,corti.ai,,"$29,378,315","Vaekstfonden, EASME - EU Executive Agency for SMEs, byFounders, Jeremy Yap, Heartcore Capital",2016,Europe,Healthcare Speech to text / data organization
+Classification,Mem,https://get.mem.ai/,,"$29,100,000","Andreessen Horowitz, Material V, OpenAI Startup Fund, Unusual Ventures, Shrug Capital",2021,SF Bay Area,Self-organizing workspace
+MLOps/Platform,Gantry,https://gantry.io/,,"$28,300,000",Dwight Crow,2021,SF Bay Area,Model development
+Semantic Search,Air Inc,https://air.inc/,,"$28,220,000","Tiger Global, Lerer Hippeau, WndrCo, Slack Ventures, Red Sea Ventures, and Advancit Capital",2022,SF Bay Area,Marketing / search
+Summarization,Abridge,https://www.abridge.com/,,"$27,500,000","Bessemer Venture Partners, Union Square Ventures, Pillar VC, UPMC, IKS Health",2018,Other US,Healthcare conversation documentation
+MLOps/Platform,AI Foundation,https://aifoundation.com/,,"$27,500,000","Founders Fund, Correlation Ventures, Alpha Edison, Mousse Partners, Cyan Banister",2017,SF Bay Area,AI humans
+Chatbot/Conversational AI,Ultimate,https://www.ultimate.ai/,,"$27,400,545","Techstars, European Innovation Council, HV Capital, OMERS Ventures, Maki.vc",2017,Europe,Automated Virtual Agents
+Text,Writer,https://writer.com/,,"$26,000,000","Insight Partners, GTMfund, Upfront Ventures, Gradient Ventures, Scott Belsky",2020,SF Bay Area,Writing/Editing
+Legal,Harvey,https://harvey.ai/,,"$26,000,000","Sequoia Capital, Elad Gil, SVA, OpenAI Startup Fund, Conviction VC",2022,SF Bay Area,Legal text generation
+MLOps/Platform,Chooch AI,https://www.chooch.com/,,"$25,900,000","Alumni Ventures, AngelList Talent, Sand Hill Angels, Sean Bill, 212",2015,SF Bay Area,Computer vision platform
+MLOps/Platform,Iterative.ai,https://iterative.ai/,,"$25,400,000","True Ventures, 468 Capital, Afore Capital, Ihar Mahaniok",2018,SF Bay Area,Model development
+Video,Hour One,https://hourone.ai/,,"$25,000,000","Insight Partners, Intel Ignite, Remagine Ventures, Digital Horizon, Galaxy Interactive",2019,Israel,Text to Video
+MLOps/Platform,Outerbounds,https://outerbounds.com/,,"$24,250,000","Costanoa Ventures, Foundation Capital, Greenoaks, Amplify Partners",2021,SF Bay Area,Model dev
+Legal,Darrow,https://www.darrow.ai/,,"$24,000,000","NFX, Y Combinator, NFX, Entrée Capital, F2 Capital, Matias Ventures",2020,Israel,Legal case generation
+MLOps/Platform,Symbl.ai,symbl.ai,,"$23,620,000","Techstars, Bossanova Investimentos, GreatPoint Ventures, Jump Capital, Crosscut Ventures",2018,"Seattle, WA",Conversational AI Platform
+Audio,Splash,https://www.splashmusic.com/,,"$23,220,227","Techstars, BITKRAFT Ventures, Khosla Ventures, Techstars Ventures, King River Capital",2017,Australia,Song generation
+MLOps/Platform,Galileo,https://www.rungalileo.io/,,"$23,100,000","Battery Ventures, FPV Ventures, Walden Catalyst, Lip-Bu Tan, Anthony Goldbloom",2021,SF Bay Area,Model development
+Audio,Voicemod,https://www.voicemod.net/,,"$23,047,522","BITKRAFT Ventures, Demium, Wayra, K Fund, ABACON CAPITAL",2014,Europe,Voice Changing
+Code,Warp,https://www.warp.dev/,,"$23,000,000","Google Ventures, Mischief, Elad Gil, Dylan Field, Contrary",2020,"New York, NY",code generation (terminal)
+Image,TestFit,https://testfit.io/,,"$22,000,000",Parkway Venture Capital,2016,Other US,Real estate design
+MLOps/Platform,Archistar,http://archistar.ai,,"$21,960,799","AirTree Ventures, NAB Ventures, Skip Capital, Skyfield Capital",2010,Australia,Land Acquisition
+MLOps/Platform,Synthesis AI,synthesis.ai,,"$21,500,000","Bossanova Investimentos, 468 Capital, Bee Partners, LETA Capital, Sorenson Ventures",2019,SF Bay Area,Synthetic data and image generation
+Audio,Endel,https://endel.io/,,"$21,221,791","Techstars, True Ventures, Kima Ventures, Techstars Ventures, Waverley Capital",2018,Europe,Personalized soundscapes
+Text,regie.ai,https://www.regie.ai/,,"$20,800,000","South Park Commons, Khosla Ventures, Day One Ventures, Foundation Capital, Scale Venture Partners",2020,SF Bay Area,Content/Marketing
+Audio,Eleven Labs,https://www.elevenlabs.io/,,"$20,500,000","Daniel Gross, Nat Friedman, Concept Ventures, Credo Ventures",2022,"New York, NY",Long format speech generation
+MLOps/Platform,Salad,https://www.salad.com/,,"$20,200,000","Kickstart, Left Lane Capital, Origin Ventures, Carthona Capital, Royal Street Ventures",2018,Other US,GPU Cloud for Generative AI applications
+Audio,AiMi,https://www.aimi.fm/,,"$20,000,000","Founders Fund, Ethos VC, Great Mountain Partners",2019,Other US,Music generation
+Semantic Search,Vectara,https://vectara.com/,,"$20,000,000","Charles Zedlewski, Page One Ventures",2020,SF Bay Area,Video/Image Search
+Video,Deepdub,https://deepdub.ai/,,"$20,000,000","Insight Partners, Swift Ventures, Danny Grander, Matias Ventures, Stardom Ventures",2019,Israel,Content localization / dubbing
+Image,PhotoRoom,https://www.photoroom.com/,,"$19,125,000","Meta, Hugging Face, Y Combinator, FJ Labs, Balderton Capital",2019,Europe,photo generator / Background removal
+Text,Pepper Content,https://www.peppercontent.io/,,"$18,658,353","YourStory, Balaji Srinivasan, Bessemer Venture Partners, Titan Capital, GTMfund",2017,APAC,Content/marketing generation
+Image,Uizard,https://uizard.io/,,"$18,600,000","Insight Partners, 7percent Ventures, byFounders, LDV Capital, AV8 Ventures",2018,Europe,Product Design
+Image,Swapp,https://www.swapp.ai/,,"$18,500,000","Eurazeo, Waveline Ventures, Activum, Entrée Capital, Point72 Ventures",2019,"London, UK",AI-Powered Construction Documents
+MLOps/Platform,Raft,https://www.raft.ai/,,"$17,870,000","Techstars, Bessemer Venture Partners, Dynamo, Episode 1",2017,"London, UK",Image Similarity
+MLOps/Platform,Replicate,https://replicate.com/,,"$17,800,000","Andreessen Horowitz, Sequoia Capital, Y Combinator, Lachy Groom, Guillermo Rauch",2019,SF Bay Area,ML model deployment
+Audio,Krisp,https://krisp.ai/,,"$17,500,000","Sierra Ventures, RTP Global, s16vc, Berkeley SkyDeck Fund, TechNexus Venture Collaborative",2017,SF Bay Area,Audio quality / sound extraction
+Semantic Search,Twelve Labs,https://twelvelabs.io/,,"$17,120,000","Techstars, Index Ventures, Radical Ventures, WndrCo, Dug Song",2021,SF Bay Area,Video/Image Search
+Video,"Vu Technologies, Inc.",https://www.vu.ai/,,"$17,000,000","ADX Labs, Topmark Partners, Jacques Fu, Lane Five Ventures",2021,"Miami, FL",Virtual visual production workflows
+Legal,Robin AI,https://www.robinai.co.uk/,,"$16,870,950","SoftBank, Google for Startups, Creative Destruction Lab (CDL), Plural Platform, Forward Partners",2019,"London, UK",Contract simplification
+Image,Beautiful.ai,https://www.beautiful.ai/,,"$16,000,000","Shasta Ventures, Trinity Ventures, First Round Capital",2015,SF Bay Area,Deck Design
+Audio,LifeScore,https://www.lifescoremusic.com/,,"$15,696,768","Warner Music Group, Octopus Ventures, Metaplanet Holdings, IDEO, 4-Good Ventures",2016,"London, UK",Song generation
+MLOps/Platform,Deepset,https://www.deepset.ai/,,"$15,600,000","Google Ventures, Acequia Capital (AceCap), Charlie Songhurst, Lunar Ventures, Mustafa Suleyman",2018,Europe,NLP
+Image,Facet,http://facet.ai,,"$15,500,000","Edward Lando, Gaingels, Bossanova Investimentos, Accel, South Park Commons",2017,SF Bay Area,AI-powered image editor
+Data,Hazy,https://hazy.com/,,"$14,778,644","Wells Fargo, Ascension, Nationwide Building Society, M12 - Microsoft's Venture Fund, Amadeus Capital Partners",2017,"London, UK",Finance synthetic data
+Text,Madgicx,https://madgicx.com/,,"$14,530,000",,2018,Israel,Ad Performance
+Text,Copy.ai,https://www.copy.ai/,,"$13,900,000","Sequoia Capital, Tiger Global Management, Wing Venture Capital, Elad Gil, Craft Ventures",2020,Other US,Content creation
+Text,Lavender,https://www.lavender.ai/,,"$13,200,000","Norwest Venture Partners, Arash Ferdowsi, CapitalX, Signia Venture Partners, Position Ventures",2020,"New York, NY",Sales email generation
+Video,Yepic,https://www.yepic.ai/,,"$13,170,000",,2019,"London, UK",AI powered dubbing
+Summarization,NeoTax,https://www.neo.tax/,,"$13,000,000","Fin Capital, Google Ventures, Uncork Capital, SVA, Liquid 2 Ventures",2019,SF Bay Area,"Machine learning and generative AI based tax optimization, calculation and preparation for mid-size enterprises"
+Legal,EvenUp,https://www.evenuplaw.com/,,"$12,900,000","NFX, Bessemer Venture Partners, DCM Ventures, Dash Fund, NFX",2019,SF Bay Area,Legal case generation
+Chatbot/Conversational AI,Lang.ai,https://www.lang.ai/,,"$12,500,000","500 Global, Alumni Ventures, Village Global, Forum Ventures, Lorimer Ventures",2018,Europe,Contact center / ticket prioritization
+Code,Durable,https://durable.co/,,"$12,500,000","Soma Capital, Lorimer Ventures, South Park Commons, Altman Capital, Torch Capital",2021,SF Bay Area,Web App Builder
+Legal,Spellbook,https://spellbook.legal/,,"$12,415,000","Creative Destruction Lab (CDL), BDC Venture Capital, Inovia Capital, Bling Capital, Concrete Ventures",2018,North America (excl. US),AI Copilot for Contracting
+Video,Rephrase,https://www.rephrase.ai/,,"$12,200,000","Techstars, Silver Lake, Red Ventures, 8VC, Lightspeed India Partners",2019,SF Bay Area,Personalized videos
+Chatbot/Conversational AI,Jio Haptik,https://www.haptik.ai/,,"$12,200,000","Kalaari Capital, Times Internet, Vivek Kumar",2013,APAC,Automated Virtual Agents
+Legal,ZERO,https://zerosystems.com/,,"$12,120,000","NFX, s16vc, One Way Ventures, AltaIR Capital, 468 Capital, NFX",2014,SF Bay Area,Automated admin tasks
+Text,Ginger,https://www.gingersoftware.com/,,"$11,700,000","Horizons Ventures, Harbor Pacific Capital, Jerusalem Global Ventures",2007,Other US,Writing/Editing
+Audio,Murf,https://murf.ai/,,"$11,500,000","Elevation Capital, Vidit Aatrey, Matrix Partners India, Ankit Bhati, Ashish Goel",2020,Other US,Text to Speech
+Video,Kinetix,https://kinetix.tech/,,"$11,000,000","Animoca Brands, Entrepreneur First, NAVER Z, The Sandbox, Sparkle Ventures",2020,Europe,3D content generation from video
+Image,Fy!,https://www.iamfy.co/,,"$10,977,391","500 Global, Seedrs, Hoxton Ventures, Forward Partners, Redbus Ventures",2014,"London, UK",Transforming everyones' homes with generative AI
+Chatbot/Conversational AI,Replika,https://replika.ai/,,"$10,920,000","Y Combinator, Khosla Ventures, Ludlow Ventures, ACME Capital, Richard Socher",2015,SF Bay Area,AI personal companion
+Sentiment Analysis,Viable,https://www.askviable.com/,,"$10,900,000","Bossanova Investimentos, Craft Ventures, Merus Capital, GTMfund, StratMinds",2020,SF Bay Area,Customer support / text analysis
+Image,Simplified,https://simplified.com/,,"$10,700,000","Bossanova Investimentos, Wing Venture Capital, Khosla Ventures, Uncorrelated Ventures, Craft Ventures",2020,SF Bay Area,Content Creation/Publishing
+Text,Intento,https://inten.to/,,"$10,649,998","Berkeley SkyDeck Fund, SkyDeck Berkeley, Amadeo Global, SmartHub, Davidovs Venture Collective (DVC)",2016,SF Bay Area,Content Translation
+Game,The Simulation,https://fablesimulation.com/,,"$10,500,000","Manta Ray, Social Discovery Ventures, Day One Ventures, LionTree LLC, 7percent Ventures, Boston Seed Capital, Dream Machine, GFR Fund, Outpost Capital LLC, Riverside Ventures, AET Fund (Akatsuki Entertainment Technology Fund), Super Ventures",2017,SF Bay Area,NFT metaverse simulation
+Audio,Moises,https://moises.ai/,,"$10,425,709","Alumni Ventures, Norwest Venture Partners, Goodwater Capital, Index Ventures, Monashees",2019,Other US,"Songwriting, Isolate vocals/instruments"
+Data,Mindtech,https://www.mindtech.global/,,"$10,122,887","Appen, Deeptech Labs, NPIF – Mercia Equity Finance, In-Q-Tel",2017,"London, UK",Synthetic data generation
+Audio,WellSaid,https://wellsaidlabs.com/,,"$10,000,000","Qualcomm Ventures, FUSE, Good Friends, Voyager Capital",2018,"Seattle, WA",Text to Speech
+Image,Bria,https://bria.ai/,,"$10,000,000","Intel Ignite, Getty Images, Entrée Capital, IN Venture",2020,Israel,"Find, create, and edit visual content"
+Chatbot/Conversational AI,UneeQ,https://digitalhumans.com/,,"$10,000,000","Alium Capital, Icehouse Ventures, Navigate Ventures LLC",2010,APAC,Digital human creator platform
+Text,Copysmith,https://copysmith.ai/,,"$10,000,000","PSG Equity, Harmony Venture Labs",2020,SF Bay Area,Marketing content creation
+Text,Omneky,https://www.omneky.com/,,"$10,000,000","Village Global, Hyphen Capital, Richard Socher, Bruno Faviero, FAST — by GETTYLAB",2018,SF Bay Area,Marketing / ad generation
+Audio,Amberscript,https://www.amberscript.com/en/,,"$9,995,401","Endeit Capital, VentureBuilders Capital",2017,Europe,Transcription and subtitles
+Chatbot/Conversational AI,NLX,https://nlx.ai/,,"$9,600,000","Flying Fish Partners, JetBlue Ventures, IAG Capital Partners, Sage Venture Partners, Rob Meyerson",2018,"New York, NY",Contact Center
+Code,DhiWise,https://www.dhiwise.com/,,"$9,500,000","Accel, India Quotient, Dholakia Ventures, Together Fund",2021,APAC,Design to Code conversion
+Text,Outplay,https://outplayhq.com/,,"$9,300,000","Kunal Shah, Surge, Sequoia Capital India, Khadim Batti, Krish Subramanian",2019,Other US,Sales / email generation
+Text,MarketMuse,https://www.marketmuse.com/,,"$9,238,000","Creative Destruction Lab (CDL), Silicon Valley Bank, Panache Ventures, Riverside Company, Colle Capital Partners",2015,Other US,Content creation
+Image,Tiamat World,http://www.tiamat.world/,,"$9,000,000","DCM Ventures, Vitalbridge Capital, Linear Capital",2021,APAC,Text-to-Image Generation
+Bio,Profluent,https://www.profluent.bio/,,"$9,000,000","Insight Partners, AIX Ventures, Air Street Capital, Phoenix Venture Partners",2022,SF Bay Area,Decoding the language of proteins with AI
+Video,HeyGen,https://www.heygen.com/,,"$9,000,000","Sequoia Capital China, IDG Capital, Baidu Ventures",2022,"Los Angeles, CA",Text to Video
+Audio,Amper,https://www.ampermusic.com/,http://www.shutterstock.com,"$9,000,000",Insight Partners,2003,"New York, NY",Song generation
+Audio,Podcastle,https://podcastle.ai/,,"$8,750,000","Correlation Ventures, Sierra Ventures, RTP Global, s16vc, AI Fund",2020,MENA,"Podcast recording, editing, exporting"
+Bio,Valence,https://www.valencediscovery.com/,,"$8,527,784","Techstars, Creative Destruction Lab (CDL), Brightspark Ventures, FounderFuel, Panache Ventures",2018,North America (excl. US),Drug discovery platform
+Text,Personal.ai,https://www.personal.ai,,"$8,400,000","Village Global, Differential Ventures, BBG Ventures, Jane Street Capital, Good Friends",2020,"New York, NY",Personalized digital minds
+Data,DataHawk,https://datahawk.co/,,"$8,374,667","FrenchFounders, Hi Inov - Dentressangle, Axeleo Capital, Spring Invest, Bleu Capital",2017,Europe,Commerce analytics platform
+Chatbot/Conversational AI,Vozy,https://www.vozy.co,,"$8,082,600","Globant, Parallel18, Wayra, The Ark Fund, Arash Ferdowsi",2017,LatAm,Conversational voice intelligence
+MLOps/Platform,Contents,https://www.contents.com/,,"$8,023,701","Fabio Cannavale, Synergo Capital, Alberto Chalon, Jacopo Paoletti",2020,Europe,Content creation platform
+Summarization,One AI,https://www.oneai.com/,,"$8,000,000","Ariel Maislos, Tomer Weingarten, TechAviv Founder Partners",2021,Israel,NLP AI / article summaries
+Chatbot/Conversational AI,Verloop,https://verloop.io/,,"$8,000,000","ADQ, Mohandas Pai, Anand Chandrasekaran, Kris Gopalakrishnan, Ganesh Krishnan",2016,APAC,Automated Virtual Agents
+Video,GlossAI,https://glossai.co/,,"$8,000,000","MindCET, Maccabee Ventures, 97212 Ventures, New Era Capital Partners, Rafi Gidron",2020,Israel,Automatic video highlights
+Image,CSM,https://csm.ai/,,"$7,579,994","Intel Capital, Glasswing Ventures, Toyota Ventures, Omidyar Technology Ventures, Blindspot Ventures",2020,Other US,3D Image Generation
+Video,Metaphysic,https://metaphysic.ai/,,"$7,500,000","8VC, Winklevoss Capital, Section 32, Logan Paul, QP Ventures",2021,"London, UK",AI generated content tools
+Code,Seek,https://www.seek.ai/,,"$7,500,000","Battery Ventures, Mustafa Suleyman, Conviction Partners, Bob Muglia, Tristan Handy",2021,"New York, NY",Data queries / SQL
+Legal,TermScout,https://www.termscout.com/,,"$7,270,000","NFX, Techstars, Ground Up Ventures, NFX, Underdog Labs, Bridge Investments",2018,Other US,Legal contract platform
+Text,Quattr,https://www.quattr.com/,,"$7,065,000","Correlation Ventures, Neotribe Ventures, Emergent Ventures",2019,SF Bay Area,Growth Marketing / SEO Content generation
+Data,Kiliba,https://kiliba.com//,,"$7,056,537","Edward Lando, FrenchFounders, Pareto Holdings, Otium Capital, Thibaud Hug de Larauze",2018,Europe,E-commerce marketing
+Chatbot/Conversational AI,Tymely,https://www.tymely.ai/,,"$7,000,000","Insight Partners, Hetz Ventures, 97212 Ventures, DESCOvery",2020,"New York, NY",Contact Center (E-Commerce)
+Text,theGist,https://www.thegist.ai/,,"$7,000,000","Aleph, StageOne Ventures, Avishai Abrahami, Yoav Vilner, Itzik Ben Bassat",2022,Israel,Summarizes Slack messages
+Video,Detail,https://detail.co/,,"$7,000,000","TQ Ventures, Hustle Fund, Connect Ventures, Joe Thomas, Point Nine",2020,Europe,"Record, remix, and share videos"
+MLOps/Platform,BLOOM,https://bigscience.notion.site/BLOOM-BigScience-176B-Model-ad073ca07cdf479398d5f95d88e218c4,,"$7,000,000",publicly funded through grants,2022,Europe,Open-source text generation model
+Audio,Lovo,https://www.lovo.ai/,,"$6,850,000","Google for Startups, Primer Sazze Partners, Goodwater Capital, TIPS Program, Kakao Investment",2019,SF Bay Area,Voiceovers
+Text,BrandMuscle,https://www.brandmuscle.com/,,"$6,500,000",Alta Communications,2000,Other US,Marketing Automation and Compliance for Local businesses
+Data,Zenlytic,https://www.zenlytic.com/,,"$6,400,000","Correlation Ventures, Primary Venture Partners, Bain Capital Ventures, Sequoia Capital (SSF), Company Ventures",2018,"New York, NY","LLM business intelligence tool, lets you chat with a cloud data warehouse"
+Text,Data Skrive,https://dataskrive.com/,,"$6,285,000","Puget Sound Venture Club, Bettor Capital",2013,"Seattle, WA",Marketing content creation
+Video,Colossyan,https://www.colossyan.com/,,"$6,179,350","APX, LAUNCHub Ventures, Day One Capital, Oktogon Ventures, Emerge Education",2020,Other US,AI Video Creation
+Video,Tavus,https://www.tavus.io/,,"$6,100,000","Sequoia Capital, Y Combinator, Accel, Lightspeed Venture Partners, Hack VC",2020,SF Bay Area,Personalized videos
+Video,Peech,https://www.peech-ai.com/,,"$6,000,000","Ariel Maislos, Cardumen Capital, fresh.fund, Ibex Investors, Nuseir Yassin",2020,Israel,Content creation
+Video,Wombo,https://www.wombo.ai/,,"$6,000,000","500 Global, FJ Labs, Global Founders Capital, 468 Capital, Sound Ventures",2020,North America (excl. US),Lip Synced Visualizations
+MLOps/Platform,SliceX AI,https://slicex.ai/,,"$6,000,000",,2021,SF Bay Area,Machine learning platform
+Image,Prisma Labs,https://prisma-ai.com/,,"$6,000,000","Palta, Elysium Venture Capital, Taver Capital Partners",2016,SF Bay Area,Photo to art generation
+Game,Masterpiece Studio,https://masterpiecestudio.com/,,"$6,000,000","Boost VC, Panache Ventures, Capital Angel Network, ideaBOOST",2016,North America (excl. US),3D model generation / editing
+Game,Scenario,https://www.scenario.com/,,"$6,000,000","Play Ventures, Anorak Ventures, Justin Kan, Graph Ventures, The Venture Reality Fund/VRF",2021,SF Bay Area,Enables anyone to easily create game assets
+Image,DeckRobot,https://www.deckrobot.com/,,"$5,850,000","Charlie Songhurst, Flyer One Ventures, Alex Turbanov, Pragmatech Ventures, Victor Savyuk",2017,SF Bay Area,Slide deck design
+Bio,Cradle,https://cradle.bio/,,"$5,698,637","Index Ventures, Kindred Capital, John Zimmer, Emily Leproust",2021,Europe,Protein Generation
+Data,Syntegra,https://www.syntegra.io/,,"$5,625,000","Village Global, WVV Capital, Launchpad Capital, Impact Venture Capital, GRIDS Capital",2019,SF Bay Area,Healthcare synthetic data
+Video,Reface,https://hey.reface.ai/,,"$5,500,000","Andreessen Horowitz, TQ Ventures, Adventures Lab, Sergey Tokarev",2018,Europe,Face swaps
+Text,OthersideAI,https://www.othersideai.com/,,"$5,400,000","Madrona, Siqi Chen, Chapter One Ventures, Active Capital, Hustle Fund",2020,"New York, NY",Writing/Editing
+Game,Replica,https://replicastudios.com/,,"$5,373,757","Flying Fox Ventures, Techstars Ventures, The Venture Reality Fund/VRF, Carthona Capital, Mawson Ventures",2018,Australia,AI Voice Actors
+Text,Phrasee,https://phrasee.co/,,"$5,334,267","AlbionVC, Next Fifteen Communications Group, Galvanise Capital, Capital D",2015,"London, UK",AI Content
+Chatbot/Conversational AI,Astrid,https://www.astrideducation.com/,,"$5,300,000",,2020,Europe,Personalized English tutoring
+Video,GAN,https://gan.ai/,,"$5,250,000","Emergent Ventures, Surge",2021,Other US,Personalized videos
+Text,Flowrite,https://www.flowrite.com/,,"$5,060,000","Lifeline Ventures, Moonfire Ventures, Ilkka Paananen, David Helgason, Seedcamp",2020,Europe,Email generation
+Chatbot/Conversational AI,Certainly,https://certainly.io/,,"$5,058,801","Seed Capital, VF Venture, Esben Gadsbøll, Thomas Black Petersen",2016,Europe,E-Commerce Customer Support
+Semantic Search,Netail,https://netail.ai/,,"$5,000,000","Magarac Venture Partners, AI Fund, HKSTP Ventures",2022,SF Bay Area,Multi-modal AI enabled omnichannel intelligence
+Text,Demandwell,https://www.demandwell.com/,,"$5,000,000",High Alpha,2018,Other US,Content/marketing
+MLOps/Platform,Wand,https://wand.ai/,,"$5,000,000","Angels, Rebellion Ventures",2022,Israel,End-to-end AI platform to solve business problems and create value faster
+Image,Neurolabs,https://www.neurolabs.ai/,,"$4,920,613","Charlie Songhurst, 7percent Ventures, LAUNCHub Ventures, Lunar Ventures, Techstart Ventures",2018,"London, UK",Computer vision for CPG
+Text,Novus Writer,https://novuswriter.ai/,,"$4,749,040","Startup Wise Guys, MIT Sandbox",2020,Other US,Written / Visual Content generation
+Video,Pictory,https://pictory.ai/,,"$4,716,218","FUSE, Voyager Capital, Bill Bryant, Bharat Shyam, Omri Bahat",2019,"Seattle, WA",Text to Video
+Video,Waymark,https://waymark.com/,,"$4,616,262","Draper Associates, Revolution, Revolution’s Rise of the Rest Seed Fund, Detroit Venture Partners, First Step Fund",2010,Other US,Text-to-video generation
+MLOps/Platform,Obviously.ai,https://www.obviously.ai/,,"$4,600,000","Meta, TMV, B Capital Group, Golden Gate Ventures, iSeed",2020,SF Bay Area,No-code AI tool
+Sentiment Analysis,Pluralytics,https://pluralytics.com/,,"$4,600,000",Ecliptic Capital,2020,Other US,Text sentiment analysis
+Chatbot/Conversational AI,Cass,https://www.cass.ai/,,"$4,600,000",PivotNorth Capital,2014,SF Bay Area,Automated Virtual Agents (Healthcare)
+Text,Twain,https://www.usetwain.com/,,"$4,530,895","Sequoia Capital, Calm/Storm Ventures, TQ Ventures, Andreas Kupke, Johann ""Hansi"" Hansmann",2021,Europe,Email Outbound
+Code,Codex,https://usecodex.com/,,"$4,525,000","NFX, Y Combinator, Ludlow Ventures, Four Cities Capital, NFX, Emergence Capital",2021,North America (excl. US),Code documentation
+Game,Hypothetic,https://www.hypothetic.art/,,"$4,505,000",Trevor Wright,2021,"Los Angeles, CA",3D art creation and asset management
+Audio,Poised,https://www.poised.com,,"$4,500,000","Wing Venture Capital, Next Play Ventures, Hyphen Capital, Concrete Rose Capital, Slack Fund",2020,SF Bay Area,AI communication coach
+Audio,Speechify,https://speechify.com/,,"$4,500,000","G9 Ventures, Streamlined Ventures, Adjacent",2017,"Miami, FL",Text to Speech
+Image,Skippr,https://skippr.com/,,"$4,500,000",,2022,"London, UK",Product design
+Semantic Search,Dashworks,https://www.dashworks.ai/,,"$4,500,000","Y Combinator, South Park Commons, Unpopular Ventures, Goat Capital, Emmett Shear",2020,SF Bay Area,Search engine platform
+Audio,Boomy,https://boomy.com/,,"$4,451,016","Warner Music Group, Boost VC, Future Labs, Scrum Ventures, First Check Ventures",2018,SF Bay Area,Song generation
+Text,Contlo,https://contlo.com/,,"$4,300,000","Titan Capital, Better Capital, Varun Alagh, Kae Capital, Harshil Mathur",2021,Other US,E-commerce Marketing
+Video,Dob Studio,https://www.dob.world/,,"$4,256,732","Dexter Studios, Timewise Investment, Nau IB Capital, TINVESTMENT",2020,APAC,Virtual humans
+Chatbot/Conversational AI,Circle Labs,https://circlelabs.xyz/,,"$4,200,000","Techstars, Lightspeed Venture Partners, Daniel Gross, Haystack, Scott Belsky",2021,SF Bay Area,AI NPC platform
+Text,Quillbot AI,https://quillbot.com/,,"$4,200,000","Sierra Ventures, Service Provider Capital, GSV Ventures",2017,Other US,Writing (paraphrasing)
+Semantic Search,Consensus,https://consensus.app/,,"$4,200,000","Alumni Ventures, Draper Associates, Winklevoss Capital, Brian Pokorny, Nomad Capital",2021,Other US,Scientific Search / data organization
+Text,Dynamo,https://www.dynamo.fyi/,,"$4,150,000",,2018,Israel,Social media content OS
+Game,Latitude/AI Dungeon,https://play.aidungeon.io/main/home,https://latitude.io/,"$4,100,000","NFX, NFX, Griffen, Album.vc",2019,Other US,Games generation
+Image,Diagram,https://diagram.com/,,"$4,100,000","Lachy Groom, Basis Set Ventures, Ludlow Ventures, Weekend Fund, base case capital",2022,"New York, NY",Product Design
+Audio,Voiseed,https://www.voiseed.com/,,"$4,073,637","European Innovation Council, LIFTT, SkyDeck Berkeley",2020,Europe,Multilingual AI dubbing platform
+Text,Conversion Maker AI,https://conversionmaker.ai/,https://conversionmaker.com/,"$4,072,333",Christian Funk Holding,2020,Europe,Text generation
+Video,EmbodyMe,https://embodyme.com/,,"$4,056,294","Techstars, SMBC Venture Capital, Incubate Fund, Deepcore, Japan Finance",2016,APAC,Face swaps
+Summarization,Weave.ai,https://www.weave.ai/,,"$4,000,000",Techstars,2015,"Seattle, WA",Summarization
+Code,10Web,https://10web.io/,,"$4,000,000","Sierra Ventures, AI Fund",2017,Other US,Website Generation
+Legal,Clawdia,https://www.clawdia.ai/,,"$4,000,000",Google for Startups,2021,"Los Angeles, CA",Automated Legal Solutions
+Code,The.com,https://www.the.com/,,"$4,000,000","NFX, NFX, Sound Ventures, Harry Stebbings, Village Global, VSC Ventures, Jay Parikh",2021,SF Bay Area,Website Generation
+Audio,Resemble,https://www.resemble.ai/,,"$4,000,000","Betaworks, Craft Ventures, Canaan Partners, Spacecadet Ventures, GMG Ventures",2018,North America (excl. US),Voiceovers
+Sentiment Analysis,Staircase,https://staircase.ai/,,"$4,000,000","StageOne Ventures, Disruptive AI Venture Capital",2021,"Los Angeles, CA",Text sentiment analysis / contact center
+Video,Reduct Video,https://reduct.video/,,"$4,000,000","Elad Gil, Dylan Field, South Park Commons, Greylock, Pear VC",2018,SF Bay Area,Video editing
+Image,Poly,https://withpoly.com/,,"$4,000,000","Y Combinator, Figma, Goodwater Capital, NextView Ventures, Bloomberg Beta",2022,Other US,Design
+Image,Pencil,https://www.trypencil.com/,,"$3,850,000",Wavemaker Partners,2018,APAC,Ad recommendations
+Audio,Soundful,https://soundful.com/,,"$3,800,000",,2019,"San Diego, CA",Song generation
+MLOps/Platform,Lighton,https://lighton.ai/,,"$3,705,408","Anorak Ventures, Quantonation, CEA Investissement",2016,Europe,NLP
+Bio,Variational AI,https://variational.ai/,,"$3,658,940","Flying Fish Partners, Alliance of Angels, Lip-Bu Tan, Amarjit Gill, A&E Investments",2019,North America (excl. US),Novel and selective kinase inhibitors (cancer drugs)
+Chatbot/Conversational AI,XOKind,https://www.xokind.com/,,"$3,600,000","Section 32, Adam D’Angelo, Naveen Rao, Frederic Kerrest, Avid Larizadeh",2019,"San Diego, CA",Support (Chat/Email)
+Audio,Supertone,https://supertone.ai/,,"$3,572,705","Hybe, Big Hit Music",2020,APAC,Voice Generation / cloning
+Summarization,Agolo,https://www.agolo.com/,,"$3,540,000","Google, Microsoft, Alumni Ventures, Google Ventures, Thomson Reuters",2012,"New York, NY",Summarization
+MLOps/Platform,Slai,https://www.slai.io/,,"$3,500,000","Alumni Ventures, Y Combinator, Tiger Global Management, Soma Capital, Uncorrelated Ventures",2021,Other US,Model dev
+Text,Scalenut,https://www.scalenut.com/,,"$3,500,000","Titan Capital, Saama Capital, AngelList India, Amit Singhal, First Principles",2020,APAC,Content/marketing
+Video,Potion,https://www.sendpotion.com/,,"$3,500,000","Unshackled Ventures, Streamlined Ventures",2020,SF Bay Area,Personalized videos
+Data,OneView,https://one-view.ai/,,"$3,500,000","Intel Ignite, TPY Capital, RDC - Rafael Development Corporation, MediaTek Ventures",2019,Israel,Geospatial data
+Text,NuMind,https://www.numind.ai/,,"$3,500,000","Y Combinator, Pioneer Fund, Flybridge, big_bets, Sharpstone Capital",2022,Other US,Custom NLP models
+Text,Typewise,https://www.typewise.app/,,"$3,447,167","Y Combinator, Innosuisse, Seedrs, SICTIC, Rebel Fund",2019,Europe,Writing (CS / Sales)
+Audio,Altered,https://www.altered.ai/,,"$3,300,000",Big Pi,2018,"London, UK",Voice augmentation
+Audio,Coqui,https://coqui.ai/,,"$3,300,000","ScaleX Ventures, Mango Capital, DNX Ventures",2021,Europe,Text to Speech / Voice Synthesis
+Chatbot/Conversational AI,Cohere.io,https://cohere.io/,,"$3,250,000","Y Combinator, Initialized Capital, Soma Capital, Chapter One Ventures, BoxGroup",2020,"New York, NY",Customer Support
+Data,YData,https://ydata.ai/,,"$3,242,540","Techstars, Google for Startups, Real Ventures, Flying Fish Partners, Faber",2019,"Seattle, WA",Synthetic data generation for AI
+Sentiment Analysis,MonkeyLearn,https://monkeylearn.com/,,"$3,235,000","500 Global, Uncork Capital, Bling Capital, Howie Liu, Garuda Ventures",2014,SF Bay Area,Text analysis
+Summarization,Summari,https://www.summari.com/,,"$3,200,000",SVA,2019,SF Bay Area,Summarization (reading)
+Chatbot/Conversational AI,Attention,https://www.attention.tech/,,"$3,134,991","Eniac Ventures, Liquid 2 Ventures, MGV, Ride Ventures, Frst",2021,"New York, NY",Voice assistant for sales
+Image,Let's Enhance,https://letsenhance.io/,,"$3,120,000","Techstars, Acrobator Ventures | Acrobator.vc, Digital Future, Synetro Group, Chamaeleon",2018,SF Bay Area,Photo enhancement
+Video,Windsor,https://www.windsor.io/,,"$3,100,000","Y Combinator, Guillermo Rauch, Precursor Ventures, Siqi Chen, Andrew Wilkinson",2018,SF Bay Area,Personalized videos
+Audio,NeuralSpace,https://www.neuralspace.ai/,,"$3,071,875","Techstars, APX, Merus Capital, Verissimo Ventures, GoHub Ventures",2019,"London, UK",Speech to Text
+Image,Zocket,https://www.zocket.com/,,"$3,022,254","Kalaari Capital, Jasminder Gulati, Kettleborough VC",2021,APAC,Digital Ad generation platform
+Text,Sudowrite,https://www.sudowrite.com/,,"$3,000,000",500 Global,2020,SF Bay Area,Writing (automated)
+Audio,Stylo,https://www.askstylo.com/,,"$3,000,000","Caffeinated Capital, Matchstick Ventures, Converge, VITALIZE Venture Capital",2021,Other US,Contact Center
+Text,HIPSTO,https://hipsto.ai/,,"$3,000,000",,2017,Europe,AI Knowledge Discovery Platform
+Image,Cala,https://ca.la/,,"$3,000,000","Real Ventures, Maersk Growth, Ding Ventures",2016,"New York, NY",AI Design
+Chatbot/Conversational AI,Pragma,https://www.pragma.ai/,,"$2,800,000","INT3, Secret Chord Ventures",2021,Israel,AI sales assistant
+Code,Mintlify,https://mintlify.com//,,"$2,800,000","Y Combinator, Bain Capital Ventures, TwentyTwo VC, Quinn Slack",2020,"New York, NY",Code Documentation
+Data,Akooda,https://www.akooda.co/,,"$2,800,000","NFX, Village Global, Founder Collective, Argon Ventures, New Era Capital Partners, Intel Ignite",2020,Other US,SaaS knowledge management
+MLOps/Platform,Humanloop,https://humanloop.com/,,"$2,725,000","Y Combinator, Index Ventures, Gerald Parloiu, Raphael Danilo, UCL Technology Fund",2020,"London, UK",Model development
+Video,Maverick,https://www.trymaverick.com/,,"$2,700,000",Nick Raushenbush,2021,SF Bay Area,Personalized videos for e-commerce
+Video,OASIS,https://theoasis.com/,,"$2,700,000","Bossanova Investimentos, Shane Neman, Zillionize, George Burke, Atypical Ventures",2019,Other US,Face swaps
+Audio,Pilot,http://www.pilot-ai.org/,,"$2,700,000","Y Combinator, Arash Ferdowsi, Emmett Shear",2022,SF Bay Area,Speech to text / data organization
+Text,Writesonic,https://writesonic.com/,,"$2,625,000","Y Combinator, Soma Capital, Amino Capital, HOF Capital, Rebel Fund",2021,SF Bay Area,Content Writing
+Audio,Sonantic,https://www.sonantic.io/,,"$2,570,651","Edward Lando, Entrepreneur First, AME Cloud Ventures, EQT Ventures, Jeremy Yap",2018,"London, UK",Voice Generation
+Video,Plask,https://plask.ai/,,"$2,567,768","Smilegate Investment, TIPS Program, KT investment, NAVER D2 Startup Factory, Timewise Investment",2020,APAC,Animation
+Avatars,Lalaland,https://lalaland.ai/,,"$2,551,073","Google for Startups, ASIF Ventures, Innovatiefonds Noord-Holland, Unknown Group, ACE Incubator",2019,Europe,Digital avatar models
+Semantic Search,Andi,https://andisearch.com/,,"$2,500,000","Gaingels, Y Combinator, Goodwater Capital, BBQ Capital, Acacia Venture Capital Partners",2021,"New York, NY",Smart Search Assistant
+Image,Hypar,https://hypar.io/,,"$2,480,000",Building Ventures,2018,"Los Angeles, CA",Architecture design
+Audio,Aiva Technologies,https://www.aiva.ai/,,"$2,466,273","NetEase, Kima Ventures",2016,Europe,Song generation
+Image,Depix,https://www.depix.ai/,,"$2,453,916","Anges Quebec, AQC Capital",2019,North America (excl. US),"Background removal, Photo enhancement"
+Data,Betterdata,https://www.betterdata.ai/,,"$2,420,000","Entrepreneur First, Tenity, Investible, Plug and Play, Franklin Templeton Investments",2021,APAC,Synthetic Data
+Image,KREA,https://www.krea.ai/,,"$2,320,000","Asymmetry Ventures, Cassis & Cassis Capital, Corner3, Datapower Ventures, DayDreams Ventures, DCA Asset Management, FirstMile Ventures, Kickstart Seed Fund, Moontide Capital, Service Provider Capital, Techstars, The Fund",2022,"Miami, FL",Art generation
+MLOps/Platform,TrueFoundry,https://www.truefoundry.com/,,"$2,300,000","Trajectory Ventures, Vijay Shankar, Eniac Ventures, Naval Ravikant, Mana Ventures",2021,SF Bay Area,Model development
+Code,Codiga,https://www.codiga.io/,,"$2,220,000","Techstars, LAUNCH, Service Provider Capital, Vishal Rao, 2.12 Angels",2019,Other US,Code Quality
+Chatbot/Conversational AI,Botco.ai,https://botco.ai,,"$2,200,000","Alchemist Accelerator, VamosVentures, Stout Street Capital, Desert Angels, Arizona Tech Investors",2017,Other US,Generate AI chatbots
+Audio,Mubert,https://mubert.com/,,"$2,200,000","AltaIR Capital, IT-Farm, FunCubator, LVL1 Group, GVA Capital",2017,Other US,Song generation
+Audio,Aflorithmic,https://www.aflorithmic.ai/,,"$2,185,011",Crowd Media,2019,"London, UK",Audio as a Service
+Text,Compose AI,https://www.compose.ai/,,"$2,100,000","Y Combinator, Craft Ventures, Root and Shoot Ventures",2020,SF Bay Area,Writing (automated)
+MLOps/Platform,Boltzbit,https://boltzbit.com/,,"$2,087,089","Speedinvest, IQ Capital",2020,"London, UK",Generative AI Platform
+Game,GGPredict,https://ggpredict.io/,,"$2,060,000","Google for Startups, ff Venture Capital, TDJ Pitango Ventures",2019,Europe,Gaming training
+Chatbot/Conversational AI,Mana,http://withmana.com/,,"$2,050,595","Goodwater Capital, Global Founders Capital, Flash Ventures",2020,"London, UK",AI back office
+Code,aiXcoder,https://www.aixcoder.com/,,"$2,050,395","Hillhouse Capital Group, PreAngel",2017,APAC,Code Completion
+MLOps/Platform,Featureform,https://www.featureform.com/,,"$2,000,000","Zetta Venture Partners, Berkeley SkyDeck Fund",2019,SF Bay Area,Model development
+Summarization,Upword,https://upword.ai/,,"$2,000,000",ATOORO FUND,2019,Other US,News summarization
+Audio,Ecrett,https://ecrettmusic.com/,https://soundraw.io/,"$2,000,000","Ceres (Japan), Deepcore, iSG Investment Works, Mint (Tokyo), SMBC Venture Capital",2020,APAC,Music generation
+Semantic Search,Metaphor,https://metaphor.systems/,,"$2,000,000","Y Combinator, Lombardstreet Ventures, FAST — by GETTYLAB, Atypical Ventures, Helium-3 Ventures",2021,"New York, NY",Video/Image Search
+Audio,SoundRaw,https://soundraw.io/,,"$1,959,467","Ceres, SMBC Venture Capital, Mint, Deepcore, ANOBAKA",2020,APAC,Song generation
+Video,Munch,https://www.getmunch.com/,,"$1,930,000","Remagine Ventures, Amir Shevat, Cardumen Capital, Ron Levy, Nuseir Yassin",2021,Israel,automated video highlights and overlays
+Audio,Amadeus Code,https://amadeuscode.com/app/en,,"$1,825,534",World Innovation Lab (WiL),2017,APAC,Song generation
+MLOps/Platform,Banana,https://www.banana.dev/,,"$1,820,000",Alumni Ventures,2021,SF Bay Area,Model deployment
+Text,United Robots,https://www.unitedrobots.ai/,,"$1,766,281",Investment AB Spiltan,2016,Europe,News Publishing / Generation
+Bio,NeuroX1,http://www.neurox1.com/,,"$1,750,000","Drive Capital, Trousdale Ventures, Vibe Capital",2021,Other US,Drug design for neurodegenerative diseases
+Game,ZibraAI,https://zibra.ai/,,"$1,700,000","Sebastien Borget, All Turtles, SID Venture Partners, Network VC Syndicate Fund, Gismart",2021,Europe,AI-Generated assets for any virtual world
+Image,OpenArt,https://openart.ai/,,"$1,600,000","Decent Capital, BasisSet",2022,SF Bay Area,Art generation
+Image,Rosebud.ai,https://www.rosebud.ai/,,"$1,500,000","Y Combinator, Kevin Lin, Khosla Ventures, Foothill Ventures, Lux Capital",2019,SF Bay Area,Photo/Video generation
+Video,Respeecher,https://www.respeecher.com/,,"$1,500,000","Techstars, Google for Startups, ff Venture Capital, TechNexus Venture Collaborative, Chris Adelsbach",2018,Europe,Voice cloning
+Audio,Notably,https://www.notably.ai/,,"$1,500,000","Everywhere Ventures (The Fund), Zelkova Ventures, Sentiero Ventures, Honey Badger Capital OÜ",2021,"New York, NY","Note taking, organization, transcription"
+Data,Octopize,https://octopize-md.com/en/,,"$1,500,000","Bpifrance, Pays de la Loire Participations, Atlantique Vendée Innovation, Pays de la Loire Développement",2018,Europe,Synthetic data
+Image,Botika,https://botika.io/,,"$1,500,000","Operator Partners, Homeward Ventures, Matias Ventures",2020,Israel,Image Generation
+Text,Hypertype,https://hypertype.co/,,"$1,499,749","Antler, Sting, Luminar Ventures, Propel Capital, Plug & Play Mexico",2021,Europe,Email generation
+Audio,WaveAI,https://www.wave-ai.net/,,"$1,400,000","500 Global, Goodwater Capital",2017,SF Bay Area,Song generation
+Audio,Tuney,https://www.tuney.io/,,"$1,360,000","Gaingels, Mucker Capital, CIC Angels, bValue Fund, MuckerLab",2020,"Los Angeles, CA",Song generation and AI generated remixes
+Text,WriterZen,https://writerzen.net/,,"$1,300,000",Wavemaker Partners,2021,APAC,Content creation
+Text,GoCharlie,https://gocharlie.ai/,,"$1,262,500","Alchemist Accelerator, Goodwater Capital, XRC Ventures, SRI International",2021,SF Bay Area,Marketing content creation
+Text,TextCortex AI,https://textcortex.com/,,"$1,200,000","Entrepreneur First, Speedinvest, b2venture (formerly btov Partners), Amar Shah, Holger Hengstler",2021,Europe,Marketing content generation
+Semantic Search,Zeta Alpha,https://www.zeta-alpha.com/,,"$1,192,266",,2019,Europe,Discover and organize knowledge
+Video,SuperCreator,https://www.supercreator.ai/,,"$1,170,000",,2021,Israel,Short form video
+Video,Vidyo,https://vidyo.ai/,,"$1,160,000",,2021,APAC,Video clipping (longform to shortform)
+Audio,Kaizan,https://kaizan.ai/,,"$1,152,071","Entrepreneur First, Ledger, Founders Factory, Silicon Roundabout Ventures, IPONWEB",2021,"London, UK",Contact center / customer support
+Avatars,NeuraLoom,https://neuraloom.ai/,,"$1,150,000","Starta VC, Sergey Solonin, Serge Shilnov",2019,"New York, NY",Generate synthetic avatars
+Image,Workorder AI,https://www.workorder.ai/,,"$1,100,000","Mucker Capital, MPG Fund, Ian McHenry, UBMB",2019,Other US,Architecture design
+Text,DigitalFirst,https://www.digitalfirst.ai/,,"$1,065,000","Flat6Labs, Polish Agency for Enterprise Development, INNOventure, Michał Tokarski, Grzegorz Gracz",2021,Europe,Marketing / content generation
+Audio,Beatoven.ai,https://www.beatoven.ai/,,"$1,055,000","Entrepreneur First, Redstart Labs",2021,APAC,Background music generation
+Audio,Paperplane,https://www.paperplane.ai/,,"$1,000,000","Y Combinator, Jackson Moses, Bloomberg Beta, Afore Capital, FAST — by GETTYLAB",2021,"New York, NY",Speech to text / data organization
+Image,Berserq,https://www.berserq.io,,"$1,000,000",,2021,APAC,Marketing image generation
+Video,Aug X Labs,https://www.augxlabs.com/,,"$1,000,000","Crosscut Ventures, Untapped Capital, Tribe AI, Ben Parr, Avner Ronen",2022,"New York, NY",Multi-user video dev tool
+Data,Replica Analytics,https://replica-analytics.com/,,"$1,000,000","Nina Capital, FACIT, Mitacs",2019,North America (excl. US),Healthcare synthetic data
+Text,Linguix,https://linguix.com/,,"$1,000,000","Antler, Flyer One Ventures, Grishin Robotics, Nitrx Capital LLC",2018,"Miami, FL",Writing/Editing
+MLOps/Platform,Cerebrate AI,https://cerebrate.ai/beta/,,"$1,000,000",Yakov Livshits,2021,Israel,AI as a service platform
+Chatbot/Conversational AI,GoatChat,https://goatchat.ai/,https://goat.ai/,"$1,000,000",500 Global,2021,Other US,Any AI Model accessed on Mobile
+Text,Frase,https://www.frase.io/,,"$947,000","Underscore VC, Bantam Group, Pedro Tortosa",2016,Other US,Content creation (SEO)
+Data,WordLift,https://wordlift.io/,,"$899,247",Primo Ventures,2017,Europe,AI-powered SEO / structured data generation
+Summarization,Scispace,https://typeset.io/,,"$850,000",Haresh Chawla,2015,APAC,Discover and understand research papers
+Text,Letterdrop,https://letterdrop.com/,,"$850,000",Y Combinator,2020,SF Bay Area,Marketing content operations
+Summarization,LoopinHQ,https://www.loopinhq.com/,,"$820,000","Venture Highway, First Cheque",2021,"Seattle, WA",Collaborative meeting workspace with AI meeting summaries and transcripts
+Text,neuroflash,https://neuroflash.com/,,"$800,000","Michael Diehl, Microsoft Accelerator Berlin",2021,Europe,Marketing content generation
+Audio,Dubverse,https://dubverse.ai/,,"$800,000",Kalaari Capital,2021,APAC,Video dubbing
+Audio,Sayso,https://www.sayso.ai/,,"$800,000",Creative Destruction Lab (CDL),2020,SF Bay Area,Accent filtering in real time
+Image,Coxwave,https://www.coxwave.com/,,"$800,000",,2021,APAC,Image editing and search
+Audio,Speechki,https://speechki.org/,,"$750,000","Alchemist Accelerator, Greycroft",2019,Other US,Audiobook voice generation
+Chatbot/Conversational AI,Keys,https://www.thekeys.ai/,,"$700,000","Techstars, Asymmetry Ventures, Everywhere Ventures (The Fund), CapitalX, Frontier Angels",2020,Other US,Text generation
+Chatbot/Conversational AI,Edgi Learning,https://www.edgilearning.com/,,"$685,000",,2021,"New York, NY",Homework assistant / chatbot
+Text,Save All,https://saveall.ai/landing,,"$680,000","Ada Ventures, CapitalT",2021,"London, UK",Copilot for learning
+Text,Correcto,https://correcto.es/,,"$625,000","Asymmetry Ventures, Tarek Alaruri",2021,"London, UK",Writing / editing (Spanish)
+Semantic Search,Delv AI,https://www.delv.ai/,,"$550,000",,2021,"Miami, FL",Hyper-local search and extractive summaries
+Image,Accomplice,https://accomplice.ai,,"$520,000",TinySeed,2021,Other US,AI-generated stock photos
+Text,Inventurist,https://www.inventurist.ai/,,"$500,000",,2014,SF Bay Area,Market research
+Audio,Harmonai,https://www.harmonai.org/,https://stability.ai/,"$500,000","Alchemist Accelerator, Emerging Ventures, IU Ventures",2020,Other US,Audio generation
+Code,AskEdith,https://www.askedith.ai/,,"$500,000","Abstraction Capital, Boost VC",2022,SF Bay Area,Data queries / SQL
+Audio,UberDuck,https://uberduck.ai/,,"$500,000",Y Combinator,2021,"Seattle, WA",Voiceovers
+MLOps/Platform,Rubbrband,https://rubbrband.com/,,"$500,000",Y Combinator,2022,SF Bay Area,Open-source ML training
+Code,Maya,https://mayalabs.io/,,"$500,000",Y Combinator,2020,APAC,Software generation
+Summarization,Glasp,https://glasp.co/,,"$500,000",,2021,SF Bay Area,Note summarization / annotation
+Audio,Fabius,https://www.fabius.io/,,"$500,000",Y Combinator,2020,SF Bay Area,Data Analysis
+Audio,Play,https://play.ht/,,"$500,000","500 Global, Y Combinator",2016,SF Bay Area,Text to Speech
+Video,Kamua,https://kamua.com/,,"$475,000","Albert Armengol, Scott Cohen",2019,"London, UK",Video editing / repurposing
+Game,Motorica AB,https://www.motorica.ai/home,,"$450,000",,2020,Europe,AI character animation
+Video,Zebracat,https://www.zebracat.ai/,,"$450,000",,2021,Europe,Marketing video generation
+Data,ForceField IO,https://www.theforcefield.io/,,"$400,000","Lightspeed Venture Partners, Debra Messing, Christian Lyles, Evan Tripodi, Sophonia Hardaway",2021,Other US,"End-to-end platform leverage blockchain and audit digital evidence for the highest levels of timeliness, provability, and court admissibility"
+Video,AudioLabs,https://www.audiolabs.io,,"$360,000",,2021,Israel,Podcast to shortform clips
+Code,Felvin,https://felvin.com/,,"$350,000","Larry Braitman, Sarthak Goel",2021,"New York, NY",No code builder for generative AI applications
+Code,Axiom AI,https://axiom.ai/,,"$330,000","Techstars, Y Combinator, AltaIR Capital, 7percent Ventures, Silicon Roundabout Ventures",2018,Europe,Browser automation
+Text,Sage SEO,https://www.sageseo.ai/,,"$324,000","Conscious Venture Lab, Philly Startup Leaders",2020,Other US,generates Google Search results
+Chatbot/Conversational AI,Pally,https://www.pally.com/,,"$309,759",,2022,"London, UK",AI assistant to every social conversation
+Game,Parsnip,https://www.parsnip.ai/,,"$300,000","Luis von Ahn, Severin Hacker, Jacob Peters, Zach Goldberg, Mark Miller, Barry Huang, and other angels",2020,"New York, NY",Cooking education
+Game,Kirin,https://www.kirin.org/,,"$300,000",Johnney Zhang,2022,"Los Angeles, CA",3D model geneartion
+Text,Digital Recipe Inc.,https://www.dxr.co.jp/,,"$300,000",,2018,APAC,"AI Writing Assistant called ""Catchy"""
+Code,Unthink AI,https://unthink.ai/,,"$285,000","HBAR Fund, George Brody, Anto Thomas",2022,Other US,E-Commerce web page generation
+Text,Seenapse,https://www.seenapse.it/,,"$275,000","Wayra, Mountain Partners, Havas Group, Nazca Ventures",2014,LatAm,Idea generation
+Image,Hexo,https://hexo.ai/,,"$270,000",Antler India,2022,APAC,Custom image generation
+Chatbot/Conversational AI,Elomia,https://elomia.com/,,"$265,000",,2021,Europe,Mental Health / Chatbot
+Video,Wisecut,https://www.wisecut.video/,,"$250,000","Meta, Google for Startups, TheVentureCity",2019,"Miami, FL",Video editing
+Legal,PatentPal,https://patentpal.com/,,"$250,000",Foothill Ventures,2018,SF Bay Area,Generative AI for intellectual property
+Text,MolinAI,https://molin.ai/,,"$250,000",,2022,"London, UK",AI workflows in one place with SDK
+Text,Jenni,https://jenni.ai/,,"$250,000",Antler,2015,APAC,Text generation (AI writer)
+Summarization,Scholarcy,https://www.scholarcy.com/,,"$240,000",,2019,"London, UK",Summarization
+Image,Kaedim,https://www.kaedim3d.com/,,"$203,561","Mandeep Singh, Matt Robinson, Tom Blomfield, Chris Kingsley",2020,"London, UK",2D to 3D image generation
+Text,Samplead,https://samplead.co/,,"$200,000",,2020,Israel,Personalized Emails (Sales)
+Image,Myth.Ai,https://www.myth-ai.com/,,"$200,000","Keiretsu Forum, Türk Telekom, ITUARI Teknokent, Ahmet Firat, Umit Arsoy",2020,MENA,Pattern design generation
+Audio,BeyondWords,https://beyondwords.io/,,"$195,645","Innovate UK, Newark Venture Partners, Meyvn",2016,"London, UK",Text to speech & speech to text
+Chatbot/Conversational AI,Sapling.ai,https://sapling.ai,,"$150,000",Y Combinator,2018,SF Bay Area,AI messaging assistant
+Text,Write with LAIKA,https://www.writewithlaika.com/,,"$150,000",,2022,Europe,Personalised AI for writers
+Text,reKnow,https://www.reknow.io,,"$142,081",Skalata,2021,Australia,AI text generation and repurposing
+Code,MutableAI,https://mutable.ai/,,"$130,000",Y Combinator,2021,Other US,Code Generation / Quality
+Code,Bloop,https://bloop.ai/,,"$125,000","Y Combinator, Matilde Giglio",2021,"London, UK",Code generation & documentation
+Text,Hypotenuse AI,https://www.hypotenuse.ai/,,"$125,000","Y Combinator, CABRA VC, Nick Raushenbush",2020,SF Bay Area,AI Content
+Chatbot/Conversational AI,Quickchat,https://www.quickchat.ai/,,"$125,000",,2019,Europe,AI Assistants
+Data,SharePay,https://getsharepay.com/,,"$125,000",,2022,SF Bay Area,Shared payments
+Chatbot/Conversational AI,Incentivai,https://www.incentivai.co/,,"$120,000",Y Combinator,2018,SF Bay Area,Automated Virtual Agents
+Code,Enzyme,https://enzyme.so/,,"$120,000",Techstars,2020,"New York, NY",Web App Builders
+Image,Maket,https://www.maket.ai/,,"$120,000","Techstars, Edward Lando, Pareto Holdings, Nadav Ben-Chanoch, Front Row Ventures",2019,North America (excl. US),Architecture planning
+Text,Creatext,https://www.creatext.ai/,,"$120,000",Techstars,2020,Europe,Sales Prospecting / email generation
+Video,Steve,https://www.steve.ai/,,"$110,000",,2014,SF Bay Area,Text to Video
+Video,Lumen5,https://lumen5.com/,,"$105,000","Creative Destruction Lab (CDL), NEXT Canada, New Ventures BC",2016,North America (excl. US),"Text to Video, Video creation/editing"
+Text,CopyMonkey,https://copymonkey.ai/,,"$100,405","JOINT JOURNEY, Herman Kienhuis, River Venture Partners, EMERGE, Angels Band",2020,Europe,Marketing / E-Commerce Listings
+Chatbot/Conversational AI,GetAnswer,https://getanswer.ai/,,"$100,000",,2023,SF Bay Area,ChatGPT for the intranet
+Image,YoDayo,https://yodayo.com/,,"$100,000",Friends and Family,2021,"New York, NY",Anime art generation
+Semantic Search,Pathway,https://www.pathway-ai.com/,,"$100,000",,2022,"London, UK",Search financial information
+Text,Koalluh,http://koalluh.com/,,"$100,000",,2022,Other US,Story creation for kids
+Summarization,Twig.so,https://www.twig.so/,,"$100,000","Tier 1 Scout Fund, 8 Angels",2022,SF Bay Area,AI assistants for Technical Support Agents
+Text,Broca,https://www.usebroca.com/,,"$100,000","Forum Ventures, Right Side Capital Management",2020,North America (excl. US),Content creation
+Text,LongShot AI,https://www.longshot.ai/,,"$100,000",Upekkha Value SaaS Accelerator,2021,Other US,Blogs
+Video,Elai,https://elai.io/,,"$60,000","Startup Wise Guys, Google for Startups, SID Venture Partners, Startup Lisboa - Rocket Program",2021,Other US,Text to Video
+Avatars,Avaturn,https://avaturn.me/,,"$40,000","Alchemist Accelerator, Chang Corporation, Wayne Chang, XTX Ventures, Jeff Seibert",2019,Israel,Personal 3D avatars
+Audio,Listnr,https://www.listnr.tech/,,"$30,000",,2020,Other US,Voice generation
+Video,DeepWord,https://www.deepword.co/,,"$20,000",Elevate Ventures,2020,Other US,Personalized videos
+Data,Sloped.xyz,https://www.sloped.xyz/,,"$20,000",Pioneer,2023,SF Bay Area,Data visualization from NLP
+Chatbot/Conversational AI,Mesolitica,https://mesolitica.com/,,"$12,000",Angel,2019,APAC,Narrow AIs for Malay language
+Chatbot/Conversational AI,Mesolitica,https://mesolitica.com/,,"$11,000","WatchTower and Friends (WTF), pitchIN",2019,APAC,ChatGPT for enteprise
+Text,QuizMe,https://quizme.ai/,,,,2020,North America (excl. US),Learning co-pilot
+Image,Ecomtent,https://www.ecomtent.ai/,,,Mark Evans,2022,North America (excl. US),Product Images for E-commerce
+MLOps/Platform,Glimmer AI,https://glimmerai.tech/,,,,2023,Other US,Presentation generation
+Text,Hally AI,https://hally.ai/,,,,2022,"London, UK",Recruitment task admin & content generation
+Game,Sefi AI,https://www.sefi.ai/,,,,2022,Israel,Generate games from text
+Bio,Sequome,https://www.sequome.com/,,,,2022,SF Bay Area,"Design biological sequences, to develop sequence medicines."
+MLOps/Platform,Valdi,https://valdi.ai/,,,,2022,"Los Angeles, CA",Uber for cloud computing
+Text,Whizle,https://whizle.com,,,,2021,"London, UK",Generates quizzes from videos
+Image,Stockimg.ai,https://stockimg.ai/,,,,2021,Unknown,Stock image generation
+Image,PicUP.Ai,https://www.picup.ai/,,,,2019,APAC,Automated image editing
+Text,Kadoa,https://www.kadoa.co/,,,,2023,Europe,Data Extraction with generative AI
+Video,Zubtitle,https://zubtitle.com/,,,,2018,Other US,Subtitles
+Avatars,XOLTAR,https://xoltar.com/,,,,2020,Israel,AI accountability partners
+Text,Wokelo.ai,https://www.wokelo.ai/,,,,2022,"Seattle, WA",Market Research Reports
+Image,Vizcom,https://www.vizcom.ai/,,,,2021,SF Bay Area,Hand sketching and AI to render faster
+Text,Topic,https://www.usetopic.com/,,,,2019,SF Bay Area,Content creation (SEO)
+Code,Blackbox,https://www.useblackbox.io/,,,,2019,SF Bay Area,Code Completion / Search
+Video,UnScreen,https://www.unscreen.com/,https://www.kaleido.ai/,,,2015,Europe,Video creation/editing
+Text,Trinka,https://www.trinka.ai/,,,,2020,APAC,Writing/Editing
+Image,The Culture DAO,https://www.theculturedao.com/,,,,2021,Other US,Media/Advertising
+Text,Textmetrics,https://www.textmetrics.com/,,,"OostNL, Filsa Capital",2015,Europe,Writing/Editing
+Image,Tailorbird,https://www.tailorbird.us/,,,"NFX, FJ Labs, Moderne Ventures",2020,Other US,Architecture planning
+Image,Strmr,https://www.strmr.com/,,,,2022,SF Bay Area,Image Generation
+Text,Storywizard.ai,https://www.storywizard.ai/,,,,2023,Israel,Children's story generation
+Image,Starryai,https://www.starryai.com/,,,,2021,"New York, NY",Art generation
+Audio,Sonify,https://www.sonify.io/,,,,2019,Other US,Data to music
+Chatbot/Conversational AI,Social Keyboard,https://www.socialkeyboardapp.com/,,,,2022,SF Bay Area,Translate and rewrite messages
+Text,Smartwriter.ai,https://www.smartwriter.ai/,,,,2021,Australia,Personalized Emails (Sales)
+Text,ShortlyAI,https://www.shortlyai.com/,,,,2017,"London, UK",Writing (automated)
+Text,Shakespeare,https://www.shakespeare.ai/,,,,2022,"London, UK",Copywriting
+Chatbot/Conversational AI,Samespace,https://www.samespace.com/,,,,2015,SF Bay Area,Contact Center
+Image,Removebg,https://www.remove.bg/,,,,2018,Europe,Background removal
+Audio,ReadSpeaker,https://www.readspeaker.com/,,,TIIN Capital,1999,Europe,Text to Speech
+Image,Profile Picture,https://www.profilepicture.ai/,,,,2023,Unknown,Image Generation
+Image,Ponzu,https://www.ponzu.gg/,,,South Park Commons,2022,SF Bay Area,Marketing
+Summarization,Plnia,https://www.plnia.com/,,,,2018,Unknown,NLP AI
+Image,Phaito,https://www.phaito.com/,,,,2023,Unknown,photo auto-editing
+Text,Peppertype.ai,https://www.peppertype.ai/,,,,2020,APAC,Marketing / content generation
+Summarization,Penelope,https://www.penelope.ai/,,,Digital Science,2015,"London, UK",Summarization (academic)
+Audio,Panjaya,https://www.panjaya.ai/,,,,2021,Israel,AI dubbing
+Text,Outwrite,https://www.outwrite.com/,,,,2015,Australia,Writing/Editing
+Text,Outranking,https://www.outranking.io/,,,,2016,Other US,Content creation (SEO)
+Text,Nyle,https://www.nyle.ai/,,,,2019,"New York, NY",E-Commerce Growth
+Text,NLP Labs,https://www.nlp-labs.com/,,,,2020,Unknown,Text Generation
+Text,NeuralText,https://www.neuraltext.com/,,,Aurelia Ventures,2021,Other US,Content automation
+Classification,Napkin,https://www.napkin.one/,,,,2021,Europe,Text classification / organization
+Audio,Musico,https://www.musi-co.com/,,,,2019,Europe,Song generation
+Data,MirryAI,https://www.mirry.ai/main,,,,2021,Other US,Synthetic Data
+Image,Mirage,https://www.mirageml.com/,,,"Edward Lando, Sequoia Capital, Pareto Holdings",2022,SF Bay Area,3D Generation
+Image,Midjourney,https://www.midjourney.com/,,,,2022,SF Bay Area,Research Lab
+Text,Mark,https://www.markcopy.ai/,,,,2021,Europe,Content creation
+Text,Reach,https://www.magicreach.ai/,,,,2021,Europe,Personalized Emails (Sales)
+Image,Mage.space,https://www.mage.space/,,,,2019,"New York, NY",Art generation
+Game,LitRPG,https://www.litrpgadventures.com/,,,,2023,Unknown,RPG Generation
+Audio,LALAL,https://www.lalal.ai/,,,,2020,Europe,Audio quality
+Image,Kartiv,https://www.kartiv.com/,,,,2023,Unknown,AI generated ad creatives
+Text,Growth Marketing Pro,https://www.growthmarketingpro.com/,,,,2017,SF Bay Area,Growth Marketing / SEO Content generation
+MLOps/Platform,Gooey.ai,https://www.gooey.ai/,,,"Blume Ventures, Techstars",2022,"Seattle, WA",Image Generation
+Text,Moonbeam,https://www.gomoonbeam.com/,,,,2022,Other US,Writing (automated)
+Text,Glimpse.ai,https://www.glimpse.ai/,,,,2020,Other US,Natural Langauge Generation
+Summarization,Aspect,https://aspect-hq.com/,,,,2021,Europe,Interview analysis
+Image,Alpaca,https://www.getalpaca.io/,,,,2022,North America (excl. US),Photo enhancement
+Video,GenieLabs,https://www.genielabs.tech/,,,,2022,Israel,3D Models/Scenes
+Text,Fluento,https://www.fluento.ai/,,,,2022,"London, UK",Learning Languages
+Audio,Flowful,https://www.flowful.app/,,,,2021,"London, UK",Ambient Music generation
+Chatbot/Conversational AI,Flewently,https://www.flewently.com,,,,2022,"London, UK",Language learning
+Video,Flawless,https://www.flawlessai.com/,,,,2020,"London, UK",Lip Synced Visualizations
+Game,Electric noir studios,https://www.electricnoirstudios.com/,,,,2017,"London, UK",Interactive drama mobile games
+Data,Deep Design Systems,https://www.deepdesignsystems.com/,,,,2022,Europe,Synthetic Industrial Design
+Image,Craiyon,https://www.craiyon.com/,,,2080 Ventures,2022,Other US,Art generation
+Text,Craftly.ai,https://www.craftly.ai/,,,,2021,North America (excl. US),Copywriting
+Text,Copy Shark,https://www.copyshark.ai/,,,,2021,North America (excl. US),Content/Copy creation
+Text,Conto,https://www.conto.ai/,,,,2021,Europe,Content/Copy creation
+Text,Closers Copy,https://www.closerscopy.com/,,,,2020,Europe,Content/Copy creation
+Chatbot/Conversational AI,Crone AI,https://www.crone.ai,,,,2022,SF Bay Area,AI Business Mentor
+Text,Clickable,https://www.clickable.so/,,,"Evening Fund, Musha Ventures, Y Combinator, Zentani Capital",2022,Europe,Ad Creation
+Text,BuildAI,https://www.buildai.space/,,,,2023,Unknown,Build AI interfaces
+Text,Broadn,https://www.broadn.io/,,,,2022,"London, UK",Generative learning
+Image,Blend,https://www.blendnow.com/,,,,2021,APAC,Photo to Ad
+Text,Beewriter,https://www.beewriter.com/,,,,2020,"Seattle, WA",Writing/Editing
+Text,B/BLOQS,https://www.bbloqs.ai,,,,2021,Other US,AI marketing platform
+Video,Basch,https://www.basch.io/,,,,2021,APAC,Text to Video
+Image,AutoEnhance.ai,https://www.autoenhance.ai/,,,,2021,"London, UK",Photo enhancement
+Text,Article Forge,https://www.articleforge.com/,,,,2015,Other US,Content creation
+Image,ArtBreeder,https://www.artbreeder.com/,,,,2019,"New York, NY",Art generation
+Image,Aragon,https://www.aragon.ai/,,,,2022,SF Bay Area,Design
+Code,AI2sql,https://www.ai2sql.io/,,,,2021,MENA,Data queries / SQL
+Image,AdCreative,https://www.adcreative.ai/,,,,2022,Europe,Ad generation / recommendations
+Text,Writerly,https://writerly.ai/,,,,2022,Other US,Content creation (SEO)
+Text,Vizologi,https://vizologi.com/,,,,2017,Europe,AI generated answers
+Summarization,TLDR This,https://tldrthis.com/,,,,2019,APAC,Summarization
+Text,Thundercontent,https://thundercontent.com/,,,,2021,"New York, NY",Marketing content creation
+Video,Synthesys,https://synthesys.io/,,,,2020,"London, UK",Text to Video
+Text,Surfer,https://surferseo.com/,,,,2017,Europe,Marketing content generation
+Text,Subtxt,https://subtxt.app/,,,,2023,"Los Angeles, CA",Writing (stories)
+Code,Stenography,https://stenography.dev/,,,,2021,"New York, NY",Code Documentation
+Video,Shuffll,https://shuffll.com/,,,,2021,Israel,Multi-user video dev tool
+Image,ShowHue,https://showhue.com/,,,Taiwan Startup Stadium,2018,APAC,E-commerce product photos
+Text,Seo.ai,https://seo.ai/,,,,2023,Europe,Content creation (SEO)
+Text,Rytr,https://rytr.me/,,,,2021,Other US,Content creation
+Text,Quantamix Solutions,https://quantamixsolutions.com/,,,,2019,Europe,Content automation
+Text,Qopywriter.ai,https://qopywriter.ai/,,,,2021,Europe,Copywriting
+Text,ProWritingAid,https://prowritingaid.com/,,,,2013,"London, UK",Writing/Editing
+Audio,podcast.ai,https://podcast.ai/,,,,2023,Unknown,Voice Synthesis / Generation
+Image,Playground,https://playgroundai.com/,,,,2022,SF Bay Area,Image Generation
+Text,ParagraphAI,https://paragraphai.com/,,,,2022,North America (excl. US),Writing/Editing
+Image,Osmosis,https://osmosis.studio/,,,,2022,SF Bay Area,Ad generation
+Video,Opus,https://opus.ai/,,,,2018,Other US,Text to Video
+Image,Nyx.gallery,https://nyx.gallery/,,,,2022,Europe,Art generation
+Game,Here Be Taverns,https://www.herebetaverns.com/,,,,2023,Unknown,Gaming world generation
+Text,NovelAI,https://novelai.net/,,,,2021,Other US,Writing (stories)
+Audio,NoteVibes,https://notevibes.com/,,,,2020,Unknown,Voice Generation
+MLOps/Platform,NLP Cloud,https://nlpcloud.com/,,,,2020,Europe,Model development
+Text,Nichesss,https://nichesss.com/,,,,2020,LatAm,Text generation (AI writer)
+Image,Neural.love,https://neural.love/,,,,2020,Europe,Photo enhancement
+Text,Minerva Solutions,https://minervasolutions.io/,,,,2019,"New York, NY",Advertising for real estate
+Chatbot/Conversational AI,MetaDialog,https://metadialog.com/,,,,2020,Other US,Automated Virtual Agents
+Text,Magic Copy,https://magic-copy.com/,,,,2023,Unknown,Marketing content creation
+Audio,Maestra,https://maestrasuite.com/,,,,2018,"New York, NY",Voice transcription
+Text,Lyne.ai,https://lyne.ai/,,,,2020,Other US,Data products / sales outreach
+Semantic Search,Looria,https://looria.com,,,,2021,Europe,Search product reviews
+Chatbot/Conversational AI,Loora,https://loora.ai/,,,,2020,Israel,English speaking coach
+Image,Lexica,https://lexica.art/,,,,2022,SF Bay Area,Image Generation
+Legal,LEX,https://lexai.co/en,,,Innovationsstarter,2021,Europe,Legal summarization / search
+Text,Lex.page,https://lex.page/,,,,2022,"Los Angeles, CA",Text generation
+Game,Leonardo.Ai,https://leonardo.ai/,,,,2023,Unknown,Game asset generation
+Text,LanguageTool,https://languagetool.org/,,,,2017,Europe,Writing editor / improver
+Chatbot/Conversational AI,Kai,https://kai.ai/,,,,2020,Israel,AI well-being companion
+Text,Kafkai,https://kafkai.com/,,,,2018,APAC,Marketing content creation
+Image,Interior AI,https://interiorai.com/,,,,2022,Europe,Interior Design
+Text,INK,https://inkforall.com/,,,,2019,Other US,NLO / content generation
+Classification,hi4.ai,https://hi4.ai/,,,,2020,Israel,Data labeling/tagging
+Text,Headlime,https://headlime.com/,,,,2020,Europe,Marketing copywriting
+Text,Deep Mind Gopher,https://gpt3demo.com/apps/deepmind-gopher,,,,2023,Unknown,Text generation
+Image,Geniverse,https://geniverse.co/,,,,2022,Europe,Image generation
+Text,Galactica/Amazon,https://galactica.org/,,,,2023,Unknown,Formula to Text
+Video,Fliki,https://fliki.ai/,,,,2021,Other US,Text to Video
+Image,Fermat,https://fermat.ws/,,,MK Venture Capital,2018,Europe,Image / Text / Content generation
+Code,excelformulabot,https://excelformulabot.com/,,,,2022,"Miami, FL",Excel Querying
+Summarization,Elicit,https://elicit.org/,,,,2022,SF Bay Area,Data search / summarization
+Image,DreamFusion,https://dreamfusion3d.github.io/,,,,2023,Unknown,3D image generation
+Image,DrawAnyone,https://drawanyone.com/,,,,2023,Unknown,Image Generation
+Image,Deep Dream Generator,https://deepdreamgenerator.com/,,,,2015,SF Bay Area,Image generation
+Code,Debuild,https://debuild.app/,,,"FundersClub, Offline Ventures, Founders, Inc.",2018,SF Bay Area,Web App Builder
+Image,NightCare,https://creator.nightcafe.studio/,,,,2019,Australia,Image Generation
+Text,Copymatic,https://copymatic.ai/,,,,2021,"Los Angeles, CA",Marketing content creation
+Summarization,Contentelly,https://contentelly.com/,,,,2022,Europe,Blog post generation from news
+Text,ContentBot.ai,https://contentbot.ai/,,,LianLian Pay,2021,"Miami, FL",Marketing content creation
+Text,Contenda,https://contenda.co/,,,,2021,Other US,Marketing content creation
+Summarization,Consizely,https://consizely.com/,,,,2021,SF Bay Area,Summarization
+Code,CodePilot.ai,https://codepilot.netlify.app/,,,,2016,Other US,Code Search / Developer Profiles
+Text,ChibiAI,https://chibi.ai/,,,,2021,Other US,Text generation (AI Writer)
+Classification,Capacities,https://capacities.io/,,,,2022,Europe,Note taking / data organization
+Text,Bertha.ai,https://bertha.ai/,,,,2021,Other US,Marketing / Copywriting
+Avatars,Avatar AI,https://avatarai.me/,,,,2023,Unknown,Photorealistic AI avatars
+Bio,MDM,https://arxiv.org/abs/2209.05710,,,,2023,Unknown,3D Bio molecule generation
+Image,Amazing Photos,https://amazing.photos/,,,,2023,Unknown,Image Generation
+Text,AISEO,https://aiseo.ai/,,,,2021,Europe,Marketing / Copywriting
+Text,AI Writer,https://ai-writer.com/,,,,2015,Europe,Marketing / Content creation
+Text,ABtesting.ai,https://abtesting.ai/,,,,2019,Europe,Marketing & A/B Testing
+Video,Vedia,http://www.vedia.ai/,,,,2016,"Miami, FL",Video generation
+Image,Crait AI,http://crait.it/,,,,2022,MENA,AI powered product photography
+Chatbot/Conversational AI,"Text, Inc (LiveChat)",https://www.text.com/,,,,2015,Europe,Text Intelligence for better customer service
+Text,Ingest AI,https://ingestai.io/,,,,2023,Other US,"Turn your docs, wikis, and spreadsheets into a ChatGPT-like context-aware chatbot"
+Text,DeepFiction AI,https://www.deepfiction.ai/,,,,2022,Other US,"Original unfiltered AI generated stories, images, and characters"
+Chatbot/Conversational AI,Call Connect,https://callconnect.ai/,,,,2023,Other US,AI sales rep who makes and receives phone calls
+Text,Sonicbox,https://sonicbox.io/,,,,2023,Europe,Written content into audio summaries
